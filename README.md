@@ -1,2 +1,2 @@
-# Leercode_Neetcode150
+# Leetcode_Neetcode150
 Building 🚀
